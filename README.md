@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PalSubham
-- 👀 I’m interested in AI/ML and networing
-- 🌱 I’m currently learning LLMs
+- 👋 Hi, I’m Subham Pal
+- 👀 Interested in AI/ML and networing
+- 🌱 Currently learning LLMs and cyber technology
 - 📫 Reach me at [subhampal789\@gmail.com](mailto:subhampal789@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: if-else is also AI
