@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pal
+- 👋 Hi, I’m Subham
 - 👀 Interested in AI/ML and networing
 - 🌱 Currently learning LLMs and cyber technology
 - 😄 Pronouns: He/Him
